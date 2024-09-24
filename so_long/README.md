@@ -3,8 +3,7 @@
 
 ## 🎮 **Opis Gry**
 
-"so_long" to prosta, ale wciągająca gra 2D typu "top-down", w której gracz wciela się w bohatera eksplorującego tajemniczy labirynt. Celem gry jest zebranie wszystkich przedmiotów (kolekcji) i dotarcie do wyjścia, unikając przeszkód w postaci ścian. To świetny projekt do nauki podstaw programowania graficznego, obsługi zdarzeń oraz zarządzania pamięcią w języku C.
-
+"so_long" to prosta, ale wciągająca gra 2D typu "top-down", w której gracz wciela się w bohatera eksplorującego tajemniczy labirynt. Celem gry jest zebranie wszystkich przedmiotów (kolekcji) i dotarcie do wyjścia, unikając przeszkód w postaci ścian.
 ---
 
 ## 🚀 **Rozgrywka**
@@ -116,12 +115,6 @@ Gra wymaga zainstalowania następujących narzędzi:
 ## 📜 **Licencja**
 
 Projekt ten jest dostępny na licencji MIT. Możesz go używać, modyfikować i rozpowszechniać pod warunkiem zachowania praw autorskich. 
-
----
-
-## 💬 **Kontakt**
-
-Jeśli masz pytania lub sugestie dotyczące tego projektu, możesz skontaktować się ze mną za pośrednictwem mojego adresu e-mail: pmilek@student.42.fr.
 
 ---
 
