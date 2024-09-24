@@ -4,6 +4,7 @@
 ## 🎮 **Opis Gry**
 
 "so_long" to prosta, ale wciągająca gra 2D typu "top-down", w której gracz wciela się w bohatera eksplorującego tajemniczy labirynt. Celem gry jest zebranie wszystkich przedmiotów (kolekcji) i dotarcie do wyjścia, unikając przeszkód w postaci ścian.
+
 ---
 
 ## 🚀 **Rozgrywka**
